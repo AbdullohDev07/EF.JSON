@@ -1,13 +1,4 @@
-class Program
-{
-    public static void Main()
-    {
 
-
-
-
-
-        Console.WriteLine("dfghjk");
-        Console.WriteLine("Nima gap");
-    }
-}
+Console.WriteLine("Menda u Team lead");
+Console.WriteLine("qale bu");
+Console.WriteLine("qaleslar");
