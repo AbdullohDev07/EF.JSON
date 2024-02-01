@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Salom, Dunyo!");
+Console.WriteLine("Menda u Team lead");
+Console.WriteLine("qale bu");
+Console.WriteLine("qaleslar");
